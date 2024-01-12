@@ -1,6 +1,6 @@
 # Python Dev: Criação de Sites e Sistemas 🌐
 
-A ideia do projeto foi criar um chat ao vivo, o HashZap, uma espécia de WhatsApp. 
+A ideia do projeto foi criar um chat ao vivo, o HashZap, uma espécie de WhatsApp. 
 
 ## Componentes do projeto 🗃️
 
